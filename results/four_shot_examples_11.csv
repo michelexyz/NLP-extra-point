@@ -1,0 +1,5 @@
+premise,hypothesis,label,idx
+"With its headquarters in Madrid, Spain, WTO is an inter-governmental body entrusted by the United Nations to promote and develop tourism.","The WTO headquarters is located in Madrid, Spain.",Yes,2064
+"Argentina was still obsessed with the Falkland islands even in 1994, 12 years after its defeat in the 74-day war with Britain.",The Falklands War took place in 1982.,Yes,238
+The Philippines has developed into a natural hub for U.S. contact center support with the use of English as the second national language and primary language of business.,English is the primary language of the Philippines.,No,1894
+"The longest mission which these Salyuts supported was 63 days. The second generation Salyuts would fly missions much longer and would need to be resupplied from time to time; therefore, a supply ferry was mandatory to maintain a fully operational Salyut for two years with 40,000 pounds of fuel, food, clothing and water.",Russians hold record for longest stay in space.,No,1433
